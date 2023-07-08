@@ -1,0 +1,12 @@
+- npm install create-vite
+- npm create vite
+- npm install
+- npm run dev
+
+- https://tailwindcss.com/docs/guides/vite
+  npm install -D tailwindcss postcss autoprefixer
+  npx tailwindcss init -p
+
+*************** Extensiones ******************
+- Tailwind CSS IntelliSense
+**********************************************
